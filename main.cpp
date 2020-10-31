@@ -7,5 +7,8 @@ int main(){
 	cout << "What's your name?";
 	cin >> s;
 	cout << "Hello " << s;
+	int i;
+	cout << "What's your age?";
+	cin >> i;
 	return 0;	
 }
