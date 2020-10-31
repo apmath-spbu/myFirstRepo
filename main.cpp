@@ -3,12 +3,12 @@
 using namespace std;
 
 int main(){
-	string s;
+	string name;
 	cout << "What's your name?";
-	cin >> s;
-	cout << "Hello " << s;
-	int i;
+	cin >> name;
+	cout << "Hello " << name;
+	int age;
 	cout << "What's your age?";
-	cin >> i;
+	cin >> age;
 	return 0;	
 }
